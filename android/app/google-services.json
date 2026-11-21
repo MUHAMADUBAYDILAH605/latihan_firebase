@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137425905899",
+    "project_id": "myprojectfirebase-822c1",
+    "storage_bucket": "myprojectfirebase-822c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137425905899:android:1c77e3daf64fb8340936ae",
+        "android_client_info": {
+          "package_name": "com.example.latihan_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxVTOYv5jRCUrQhVt6JmGwBOpYhEc5TwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
